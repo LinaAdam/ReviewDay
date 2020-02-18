@@ -5,7 +5,7 @@ public class GitReviewClass {
 		// TODO Auto-generated method stub
 		System.out.println("Review Day");
 		System.out.println("Review Day locally")
-			
+			Sysout.out.println("Review Day")
 	}
 
 }
